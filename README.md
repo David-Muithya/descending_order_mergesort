@@ -1,4 +1,6 @@
 # descending_order_mergesort
+# REG NUMBER: EB3/61536/22
+# NAME: DAVID MUITHYA
 a mergesort in c# demonstrating it in a descending order, showing how items can be arranged in a descending order
 # Descending Merge Sort in C#
 
